@@ -43,6 +43,10 @@ const Header = () => {
                                 <li className="nav__item">
                                     <a href="src/components/Header/Header#new" className="nav__link">New</a>
                                 </li>
+                                <li className="nav__item">
+                                    <a href="src/components/Header/Header#home"
+                                       className="nav__link">Shop</a>
+                                </li>
                             </ul>
 
                             <div className="nav__close" id="nav-close">

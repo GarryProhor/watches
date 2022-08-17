@@ -6,6 +6,10 @@ import Cart from "./components/Cart";
 import Main from "./components/Main";
 import Footer from "./components/Footer";
 
+// https://62fb3890abd610251c038025.mockapi.io/shop
+// https://62fb3890abd610251c038025.mockapi.io/new
+// https://62fb3890abd610251c038025.mockapi.io/featured
+// https://62fb3890abd610251c038025.mockapi.io/testimonial
 
 function App() {
   return (

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://drive.google.com/file/d/1WveCtfLBxF9PzWRZRv5IYSOu6fB1wrxC/view?usp=sharing",
+    "title": "ЧАСЫ МУЖСКИЕ - Hamilton",
+    "article": 687453125,
+    "mechanism": "Механический (автоподзавод)",
+    "glass": "Сапфировое",
+    "sizes": "44",
+    "price": 4099,
+    "strap": "Натуральная кожа",
+    "frame": "Латунь",
+    "thickness": 15,
+    "color": "Черный",
+    "guarantee": 36,
+    "category": 0,
+    "rating": 10
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://drive.google.com/file/d/1BvCtQwoSPg8z1Co4te_fzYB5WPb9fqM-/view?usp=sharing",
+    "title": "ЧАСЫ МУЖСКИЕ - Ingersoll",
+    "article": 982148753,
+    "mechanism": "Механический (автоподзавод)",
+    "glass": "Сапфировое",
+    "sizes": "43",
+    "price": 1999,
+    "strap": "Натуральная кожа",
+    "frame": "Латунь",
+    "thickness": 14,
+    "color": "Коричневый",
+    "guarantee": 24,
+    "category": 0,
+    "rating": 8
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://drive.google.com/file/d/1zKIOXDC8OKAmVScC761cRbrZgQqHnh5f/view?usp=sharing",
+    "title": "ЧАСЫ МУЖСКИЕ - MIDO",
+    "article": 954742158,
+    "mechanism": "Механический (автоподзавод)",
+    "glass": "Сапфировое",
+    "sizes": "42",
+    "price": 2299,
+    "strap": "Натуральная кожа",
+    "frame": "Латунь",
+    "thickness": 15,
+    "color": "Черный",
+    "guarantee": 24,
+    "category": 0,
+    "rating": 8
+  }
+]
